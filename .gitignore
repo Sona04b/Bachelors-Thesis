@@ -25,9 +25,3 @@ app/static/uploads/*
 !app/static/uploads/.gitkeep
 **/output.csv
 **/plot_image.png
-
-# Models & big artifacts (keep if using Releases instead)
-*.h5
-*.pkl
-*.pt
-*.onnx
