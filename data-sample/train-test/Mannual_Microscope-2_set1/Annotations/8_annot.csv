@@ -1,0 +1,5 @@
+Label,x_st_pt,y_st_pt,box_width,box_height,Image_name,Image_width,Image_height
+single bacillus,247,482,38,38,8.jpg,1280,1024
+single bacillus,365,573,35,35,8.jpg,1280,1024
+single bacillus,389,553,30,34,8.jpg,1280,1024
+artifacts,341,481,46,62,8.jpg,1280,1024

@@ -1,0 +1,5 @@
+Label,x_st_pt,y_st_pt,box_width,box_height,Image_name,Image_width,Image_height
+artifacts,342,872,47,50,9.jpg,1280,1024
+unclassified red structures,312,396,65,62,9.jpg,1280,1024
+bacilli cluster,81,585,33,41,9.jpg,1280,1024
+single bacillus,81,630,45,26,9.jpg,1280,1024

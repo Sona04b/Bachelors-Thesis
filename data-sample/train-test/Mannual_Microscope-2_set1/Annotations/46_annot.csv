@@ -1,0 +1,4 @@
+Label,x_st_pt,y_st_pt,box_width,box_height,Image_name,Image_width,Image_height
+single bacillus,542,234,54,46,46.jpg,1280,1024
+single bacillus,758,54,49,70,46.jpg,1280,1024
+bacilli cluster,1214,768,41,85,46.jpg,1280,1024

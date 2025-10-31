@@ -1,0 +1,7 @@
+flask
+opencv-python
+numpy
+pandas
+scikit-image
+matplotlib
+joblib

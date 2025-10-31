@@ -1,0 +1,152 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+artifacts,716,777,69,68,1.jpg,1280,1024
+unclassified red structures,166,712,73,62,11.jpg,1280,1024
+artifacts,950,856,142,121,11.jpg,1280,1024
+artifacts,216,66,83,88,12.jpg,1280,1024
+artifacts,1240,777,39,61,12.jpg,1280,1024
+unclassified red structures,750,202,72,76,13.jpg,1280,1024
+single bacillus,694,244,53,53,13.jpg,1280,1024
+artifacts,840,829,85,57,13.jpg,1280,1024
+single bacillus,361,516,72,47,13.jpg,1280,1024
+single bacillus,244,507,56,41,13.jpg,1280,1024
+artifacts,175,796,53,51,13.jpg,1280,1024
+single bacillus,28,257,61,43,14.jpg,1280,1024
+artifacts,1063,349,91,99,15.jpg,1280,1024
+artifacts,5,382,88,92,16.jpg,1280,1024
+artifacts,685,26,47,56,16.jpg,1280,1024
+artifacts,752,205,73,84,17.jpg,1280,1024
+bacilli cluster,953,676,43,45,18.jpg,1280,1024
+bacilli cluster,542,539,85,51,19.jpg,1280,1024
+single bacillus,629,642,51,38,19.jpg,1280,1024
+single bacillus,1042,734,42,53,19.jpg,1280,1024
+single bacillus,989,947,53,33,19.jpg,1280,1024
+single bacillus,863,717,46,45,19.jpg,1280,1024
+artifacts,911,711,33,56,19.jpg,1280,1024
+artifacts,403,485,64,51,2.jpg,1280,1024
+unclassified red structures,1126,56,49,50,2.jpg,1280,1024
+single bacillus,710,196,87,54,2.jpg,1280,1024
+single bacillus,1002,66,56,45,2.jpg,1280,1024
+single bacillus,970,799,83,60,2.jpg,1280,1024
+single bacillus,517,830,39,41,2.jpg,1280,1024
+single bacillus,242,111,46,33,20.jpg,1280,1024
+single bacillus,289,84,43,37,20.jpg,1280,1024
+single bacillus,288,123,41,43,20.jpg,1280,1024
+single bacillus,1096,551,58,53,20.jpg,1280,1024
+single bacillus,1031,824,47,51,20.jpg,1280,1024
+bacilli cluster,765,796,41,39,20.jpg,1280,1024
+single bacillus,81,69,42,39,21.jpg,1280,1024
+single bacillus,1090,607,37,35,21.jpg,1280,1024
+unclassified red structures,617,424,81,83,21.jpg,1280,1024
+unclassified red structures,422,607,95,89,21.jpg,1280,1024
+unclassified red structures,54,818,50,39,21.jpg,1280,1024
+single bacillus,1201,742,37,26,22.jpg,1280,1024
+single bacillus,1210,833,33,33,22.jpg,1280,1024
+single bacillus,1235,764,39,39,22.jpg,1280,1024
+single bacillus,1189,772,35,30,22.jpg,1280,1024
+single bacillus,1213,801,43,27,22.jpg,1280,1024
+single bacillus,576,3,49,39,23.jpg,1280,1024
+single bacillus,362,247,42,34,23.jpg,1280,1024
+single bacillus,350,275,30,39,23.jpg,1280,1024
+single bacillus,108,768,27,19,23.jpg,1280,1024
+single bacillus,112,853,38,34,23.jpg,1280,1024
+single bacillus,137,787,30,33,23.jpg,1280,1024
+single bacillus,89,788,34,35,23.jpg,1280,1024
+single bacillus,114,818,37,31,23.jpg,1280,1024
+unclassified red structures,125,330,87,56,24.jpg,1280,1024
+single bacillus,95,202,45,33,24.jpg,1280,1024
+single bacillus,86,108,35,27,24.jpg,1280,1024
+single bacillus,120,134,34,38,24.jpg,1280,1024
+single bacillus,82,138,31,31,24.jpg,1280,1024
+single bacillus,105,169,30,26,24.jpg,1280,1024
+unclassified red structures,1036,402,39,43,25.jpg,1280,1024
+single bacillus,992,274,50,30,25.jpg,1280,1024
+single bacillus,998,244,35,22,25.jpg,1280,1024
+single bacillus,987,183,38,27,25.jpg,1280,1024
+single bacillus,1021,200,46,46,25.jpg,1280,1024
+single bacillus,973,210,39,30,25.jpg,1280,1024
+single bacillus,186,26,70,81,26.jpg,1280,1024
+single bacillus,919,836,79,47,26.jpg,1280,1024
+bacilli cluster,0,410,37,43,26.jpg,1280,1024
+unclassified red structures,235,410,61,53,26.jpg,1280,1024
+unclassified red structures,839,14,58,64,26.jpg,1280,1024
+bacilli cluster,423,215,39,42,27.jpg,1280,1024
+unclassified red structures,1017,182,46,60,27.jpg,1280,1024
+single bacillus,1036,815,34,50,27.jpg,1280,1024
+single bacillus,683,248,62,50,27.jpg,1280,1024
+single bacillus,404,484,39,38,27.jpg,1280,1024
+single bacillus,468,673,47,43,27.jpg,1280,1024
+single bacillus,295,742,30,49,27.jpg,1280,1024
+single bacillus,268,725,38,28,27.jpg,1280,1024
+single bacillus,446,875,1,1,27.jpg,1280,1024
+artifacts,1201,372,42,42,27.jpg,1280,1024
+single bacillus,639,345,47,41,28.jpg,1280,1024
+single bacillus,690,141,37,50,28.jpg,1280,1024
+single bacillus,278,41,53,46,28.jpg,1280,1024
+single bacillus,518,116,41,53,28.jpg,1280,1024
+unclassified red structures,559,126,28,42,28.jpg,1280,1024
+artifacts,243,694,43,42,29.jpg,1280,1024
+single bacillus,446,61,24,41,29.jpg,1280,1024
+single bacillus,471,58,24,43,29.jpg,1280,1024
+single bacillus,467,3,45,51,3.jpg,1280,1024
+single bacillus,652,404,37,47,3.jpg,1280,1024
+single bacillus,621,377,43,43,3.jpg,1280,1024
+bacilli cluster,81,79,39,41,3.jpg,1280,1024
+unclassified red structures,1216,489,56,49,3.jpg,1280,1024
+artifacts,370,878,35,35,3.jpg,1280,1024
+bacilli cluster,769,462,54,38,30.jpg,1280,1024
+single bacillus,1126,825,43,45,32.jpg,1280,1024
+single bacillus,609,719,53,54,32.jpg,1280,1024
+bacilli cluster,207,960,47,39,33.jpg,1280,1024
+bacilli cluster,1186,926,46,41,34.jpg,1280,1024
+artifacts,123,214,37,45,36.jpg,1280,1024
+artifacts,966,130,79,81,37.jpg,1280,1024
+unclassified red structures,341,592,47,54,37.jpg,1280,1024
+bacilli cluster,384,257,58,31,37.jpg,1280,1024
+single bacillus,356,708,56,39,38.jpg,1280,1024
+single bacillus,961,802,62,61,38.jpg,1280,1024
+artifacts,533,867,74,64,39.jpg,1280,1024
+artifacts,836,70,56,58,39.jpg,1280,1024
+artifacts,870,760,60,64,39.jpg,1280,1024
+artifacts,518,696,37,39,4.jpg,1280,1024
+unclassified red structures,93,498,51,51,4.jpg,1280,1024
+single bacillus,465,257,42,26,4.jpg,1280,1024
+single bacillus,446,228,24,31,4.jpg,1280,1024
+single bacillus,1178,244,56,42,40.jpg,1280,1024
+single bacillus,924,118,68,49,40.jpg,1280,1024
+single bacillus,561,722,57,49,41.jpg,1280,1024
+single bacillus,667,935,47,54,42.jpg,1280,1024
+single bacillus,872,765,47,57,42.jpg,1280,1024
+single bacillus,538,241,35,51,42.jpg,1280,1024
+single bacillus,1160,581,68,57,43.jpg,1280,1024
+single bacillus,845,586,62,42,43.jpg,1280,1024
+single bacillus,7,790,57,49,43.jpg,1280,1024
+artifacts,658,293,49,60,43.jpg,1280,1024
+single bacillus,1199,53,73,43,44.jpg,1280,1024
+single bacillus,765,340,37,47,44.jpg,1280,1024
+single bacillus,465,532,64,58,44.jpg,1280,1024
+single bacillus,257,569,46,22,44.jpg,1280,1024
+single bacillus,310,569,38,42,44.jpg,1280,1024
+bacilli cluster,349,573,62,39,44.jpg,1280,1024
+single bacillus,568,412,43,41,45.jpg,1280,1024
+unclassified red structures,697,431,34,45,45.jpg,1280,1024
+single bacillus,542,234,54,46,46.jpg,1280,1024
+single bacillus,758,54,49,70,46.jpg,1280,1024
+bacilli cluster,1214,768,41,85,46.jpg,1280,1024
+bacilli cluster,121,784,33,89,47.jpg,1280,1024
+single bacillus,484,9,60,47,47.jpg,1280,1024
+single bacillus,255,267,51,33,49.jpg,1280,1024
+artifacts,1011,89,76,58,49.jpg,1280,1024
+artifacts,128,70,85,57,5.jpg,1280,1024
+artifacts,223,103,62,47,50.jpg,1280,1024
+artifacts,552,3,58,45,50.jpg,1280,1024
+artifacts,1171,322,42,43,6.jpg,1280,1024
+artifacts,106,329,38,50,7.jpg,1280,1024
+single bacillus,376,276,39,42,7.jpg,1280,1024
+single bacillus,247,482,38,38,8.jpg,1280,1024
+single bacillus,365,573,35,35,8.jpg,1280,1024
+single bacillus,389,553,30,34,8.jpg,1280,1024
+artifacts,341,481,46,62,8.jpg,1280,1024
+artifacts,342,872,47,50,9.jpg,1280,1024
+unclassified red structures,312,396,65,62,9.jpg,1280,1024
+bacilli cluster,81,585,33,41,9.jpg,1280,1024
+single bacillus,81,630,45,26,9.jpg,1280,1024

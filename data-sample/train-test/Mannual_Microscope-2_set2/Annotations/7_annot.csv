@@ -1,0 +1,12 @@
+Label,x_st_pt,y_st_pt,box_width,box_height,Image_name,Image_width,Image_height
+single bacillus,1209,1491,82,72,7.jpg,2592,1944
+single bacillus,627,355,46,90,7.jpg,2592,1944
+single bacillus,828,532,46,82,7.jpg,2592,1944
+single bacillus,1692,1808,67,113,7.jpg,2592,1944
+bacilli cluster,1764,921,95,62,7.jpg,2592,1944
+bacilli cluster,2343,689,75,62,7.jpg,2592,1944
+bacilli cluster,2530,496,62,93,7.jpg,2592,1944
+single bacillus,2381,8,49,85,7.jpg,2592,1944
+artifacts,969,175,51,51,7.jpg,2592,1944
+artifacts,1039,237,33,49,7.jpg,2592,1944
+single bacillus,2106,1167,44,59,7.jpg,2592,1944
